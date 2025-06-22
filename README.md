@@ -67,12 +67,7 @@ This project is licensed under the **MIT License** – see the [LICENSE](./LICEN
 ## 👤 Author
 
 **Muhamed Hisham bin Mohamed Bahurudeen**  
-Final Year Project @ Universiti Tenaga Nasional (UNITEN)
+Class Project @ Universiti Tenaga Nasional (UNITEN)
 
 ---
-
-## 🔗 Related
-
-- 📄 Final Report (Available upon request)
-- 📊 PowerPoint Slides (Available upon request)
 
